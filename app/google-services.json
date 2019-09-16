@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660590173479",
+    "firebase_url": "https://malinda-fbf94.firebaseio.com",
+    "project_id": "malinda-fbf94",
+    "storage_bucket": "malinda-fbf94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660590173479:android:a41efe4d64c9f839",
+        "android_client_info": {
+          "package_name": "com.example.malinda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660590173479-i3adenhk82tol1gm2df6scvaq3dd703a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.malinda",
+            "certificate_hash": "82b43cbc4203af249ec89e1549d2301e11cbca25"
+          }
+        },
+        {
+          "client_id": "660590173479-00lmruv26mlicuuqgrnq4hu037n285vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqS2fKehLOqkhJ8EFP3XUpsX8dEpa2is0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660590173479-00lmruv26mlicuuqgrnq4hu037n285vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
